@@ -1,0 +1,14 @@
+{
+  "name": "honza-smrz-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "České osobní portfolio Jana Smrže s ověřenými zdroji.",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "preview": "node scripts/dev.mjs --built"
+  },
+  "engines": { "node": ">=22" }
+}

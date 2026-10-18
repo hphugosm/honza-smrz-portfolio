@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "name": "Jan Smrž",
+    "nickname": "Honza",
+    "location": "Děčín, Česko",
+    "verifiedAt": "2026-10-18",
+    "siteUrl": "",
+    "indexable": false,
+    "title": "Jan „Honza“ Smrž — Data, robotika a vzdělávání",
+    "description": "Portfolio Jana Smrže z Gymnázia Děčín. Vítěz ML/AI hackathonu ČVUT 2024, lektor robotiky a Build the Change. Projekty, soutěže a ověřené zdroje."
+  },
+  "copy": {
+    "heroLine": "Zvědavost mění věci.",
+    "status": "proposal",
+    "note": "Úvodní motto je návrh autorského textu ke schválení Janem. Není citací."
+  },
+  "sources": [
+    {
+      "id": "cvut-hackathon",
+      "publisher": "ČVUT · KSI FJFI",
+      "title": "Hackathon ML/AI 2024 zná své vítěze",
+      "url": "https://www.ksi.fjfi.cvut.cz/informacni-deska/hackathon-mlai-2024-zna-sve-viteze",
+      "supports": "První místo týmu Robin & Honza, členové týmu, zadání Energetický detektiv, 22 hodin na řešení."
+    },
+    {
+      "id": "school-hackathon",
+      "publisher": "Gymnázium Děčín",
+      "title": "Skvělý výkon v Hackathonu",
+      "date": "2024-10-18",
+      "url": "https://www.gymnaziumdc.cz/udalost/skvely-vykon-v-hackathonu",
+      "supports": "Akce 11.–12. října 2024, vítězství a studium Jana Smrže v sextě v době soutěže."
+    },
+    {
+      "id": "school-profile",
+      "publisher": "Gymnázium Děčín",
+      "title": "Nominace na Středoškoláka Ústeckého kraje 2026",
+      "date": "2026-06-18",
+      "url": "https://www.gymnaziumdc.cz/udalost/dva-studenti-gymnazia-decin-byli-nominovani-do-souteze-stredoskolak-usteckeho-kraje-2026",
+      "supports": "Nominace, studium, Technický klub ČVUT, Make more, Maker Faire, doučování a účast v soutěžích. Článek používá i výraz ocenění; portfolio zůstává u nominace a neuvádí pořadí."
+    },
+    {
+      "id": "cvut-robotics",
+      "publisher": "ČVUT · Celoživotní vzdělávání",
+      "title": "Ovládáme roboty 2 · FJFI_209",
+      "url": "https://czv.cvut.cz/b86f231a-1536-4f68-8af4-a78235e56fed-ovladame-roboty-2/",
+      "supports": "Jan Smrž je mezi lektory kurzu 4. února až 10. června 2026. Rozsah 36 vyučovacích hodin patří celému kurzu, nikoli Janově osobní výuce."
+    },
+    {
+      "id": "polar",
+      "publisher": "Televize POLAR",
+      "title": "Děti z porubských ZŠ stavěly Porubu z lega. Chtěly by parky a kolotoče",
+      "date": "2025-09-25",
+      "url": "https://polar.cz/zpravy/ostrava/ostrava-poruba/11000050804/deti-z-porubskych-zs-stavely-porubu-z-lega-chtely-by-parky-a-kolotoce",
+      "supports": "Jan vystupuje jako lektor Build the Change a mluví o Make more."
+    },
+    {
+      "id": "bobrik-2025",
+      "publisher": "Bobřík informatiky · organizátor",
+      "title": "Výsledky 2025 · Senior a postupující do ústředního kola",
+      "url": "https://www.ibobr.cz/12-vysledky-souteze",
+      "supports": "183 bodů, dělené 19. místo v celostátním základním kole Senior 2025; uvedení mezi postupujícími. Nedokládá skutečnou účast v ústředním kole 2026."
+    },
+    {
+      "id": "naboj-2026",
+      "publisher": "Náboj Math · organizátor",
+      "title": "Náboj 2026 · Praha, Senior",
+      "url": "https://math.naboj.org/gb/en/archive/29/results/venue/CZPHS/",
+      "supports": "Tým Gymnázia Děčín s Janem Smržem: 63. místo a 15 bodů v pražském pořadí Senior, nikoli mezinárodně."
+    },
+    {
+      "id": "naboj-2025",
+      "publisher": "Náboj Math · organizátor",
+      "title": "Náboj 2025 · Praha, Senior",
+      "url": "https://math.naboj.org/gb/en/archive/28/results/venue/CZPHS/",
+      "supports": "Tým Gymnázia Děčín s Janem Smržem: 71. místo a 15 bodů v pražském pořadí Senior."
+    },
+    {
+      "id": "bobrik-2024",
+      "publisher": "Gymnázium Děčín",
+      "title": "Bobřík informatiky 2024",
+      "date": "2024-11-26",
+      "url": "https://www.gymnaziumdc.cz/udalost/bobrik-informatiky",
+      "supports": "Jan byl uveden mezi postupujícími do ústředního kola pro ročník 2024/2025."
+    }
+  ],
+  "about": {
+    "title": "Technologie mají smysl,\nkdyž se dostanou k lidem.",
+    "text": "Jan „Honza“ Smrž je student Gymnázia Děčín. Vedle soutěží se věnuje technickému vzdělávání: jako lektor předává dětem zkušenosti s programováním a robotikou a podílí se na workshopech Make more.",
+    "sources": ["school-profile", "cvut-robotics"],
+    "facets": [
+      { "number": "01", "title": "Data & řešení problémů", "text": "Vítězné týmové řešení energetické úlohy na hackathonu ČVUT.", "sources": ["cvut-hackathon"] },
+      { "number": "02", "title": "Robotika & vzdělávání", "text": "Lektorská činnost v Technickém klubu při ČVUT v Děčíně.", "sources": ["school-profile", "cvut-robotics"] },
+      { "number": "03", "title": "Workshopy & komunita", "text": "Zapojení do Make more, akcí Maker Faire a programu Build the Change.", "sources": ["school-profile", "polar"] }
+    ]
+  },
+  "projects": [
+    {
+      "id": "energeticky-detektiv",
+      "type": "data",
+      "kind": "Soutěžní projekt",
+      "year": "2024",
+      "title": "Energetický detektiv",
+      "subtitle": "Co o budově prozradí její spotřeba?",
+      "summary": "Vítězné řešení zadání zaměřeného na odhalování charakteru objektů analýzou energetické spotřeby. Reálná data poskytlo Datové centrum Ústeckého kraje.",
+      "role": "Robin & Honza · Jan Smrž a Robin János Morvai",
+      "tags": ["ML / AI hackathon", "Energetická data", "Týmové řešení"],
+      "details": "Tým Robin & Honza získal první místo na ML/AI hackathonu KSI FJFI ČVUT v Děčíně. Na řešení a prezentaci zadání měly týmy 22 hodin. Porota hodnotila splnění zadání, postup, odbornou úroveň a prezentaci.",
+      "limits": "Veřejné zdroje neuvádějí konkrétní algoritmy týmu, technologický stack, přesnost modelu ani odkaz na jeho kód. Graf na tomto webu je pouze autorská ilustrace se smyšlenými daty.",
+      "sources": ["cvut-hackathon", "school-hackathon"]
+    },
+    {
+      "id": "robotika",
+      "type": "education",
+      "kind": "Lektorská činnost",
+      "year": "2026",
+      "title": "Od prvního příkazu k robotům",
+      "subtitle": "Ovládáme roboty 2 · ČVUT",
+      "summary": "Jan je uveden mezi lektory robotického kurzu ČVUT pro žáky druhého stupně ZŠ.",
+      "role": "Jeden z lektorů · FJFI ČVUT, Děčín",
+      "tags": ["Robotika", "Programování", "Vzdělávání"],
+      "details": "Kurz Ovládáme roboty 2 probíhal od 4. února do 10. června 2026. Oficiální nabídka ČVUT uvádí Jana mezi čtyřmi lektory. Výuka pracovala s robotickými stavebnicemi a prostředím Microsoft MakeCode.",
+      "limits": "Rozsah 36 vyučovacích hodin patří celému kurzu. Nelze určit, kolik hodin vedl Jan ani které lekce osobně vyučoval. Použité prostředí kurzu není prezentováno jako jeho osobní technologický stack.",
+      "sources": ["cvut-robotics"]
+    },
+    {
+      "id": "build-the-change",
+      "type": "education",
+      "kind": "Vzdělávací program",
+      "year": "2025",
+      "title": "Malé kostky. Velké nápady.",
+      "subtitle": "Build the Change · Make more",
+      "summary": "Kreativní workshop v Ostravě-Porubě, kde děti pomocí LEGO navrhovaly své okolí. Jan v reportáži vystupuje jako lektor.",
+      "role": "Lektor Build the Change",
+      "tags": ["Workshopy", "Kreativita", "Práce s dětmi"],
+      "details": "Reportáž televize POLAR z 25. září 2025 zachycuje workshop pro žáky druhých až pátých tříd. Jan v ní představuje program Build the Change a jeho realizaci prostřednictvím Make more.",
+      "limits": "Video je dostupné u vydavatele. Portfolio nepřebírá záznam, snímky ani firemní loga. Titulek této karty je redakční pojmenování, nikoli oficiální název Janova vlastního projektu.",
+      "sources": ["polar"]
+    }
+  ],
+  "achievements": [
+    { "year": "2024", "value": "01", "unit": ". místo", "title": "ML/AI Hackathon ČVUT", "text": "Tým Robin & Honza · zadání Energetický detektiv.", "sources": ["cvut-hackathon"] },
+    { "year": "2025", "value": "19", "unit": ". místo", "title": "Bobřík informatiky", "text": "Dělené pořadí v ČR · základní kolo Senior · 183 bodů. Uveden mezi postupujícími; účast v ústředním kole netvrdíme.", "sources": ["bobrik-2025"] },
+    { "year": "2026", "value": "Nominace", "unit": "", "title": "Středoškolák Ústeckého kraje", "text": "Nominaci zveřejnilo Gymnázium Děčín. Bez tvrzení o vítězství či pořadí.", "sources": ["school-profile"] }
+  ],
+  "experience": [
+    { "label": "Studium", "title": "Gymnázium Děčín", "text": "Osmileté gymnázium. Škola Jana v červnu 2026 uvádí v 7. ročníku; aktuální ročník zde neodvozujeme.", "sources": ["school-profile"] },
+    { "label": "Workshopy & produkce", "title": "Make more / Maker Faire", "text": "Podle školního profilu se podílí na workshopech, produkci, vzdělávacích programech a táborech.", "sources": ["school-profile"] },
+    { "label": "Matematika & logika", "title": "Soutěže a předávání znalostí", "text": "Škola zmiňuje doučování matematiky a účast v Logické olympiádě, Náboji a Bobříkovi informatiky.", "sources": ["school-profile"] }
+  ],
+  "timeline": [
+    { "year": "2024", "date": "11.–12. října", "title": "První místo na hackathonu", "text": "ČVUT Děčín · Robin & Honza · energetická data.", "sources": ["school-hackathon", "cvut-hackathon"] },
+    { "year": "2024", "date": "Listopad", "title": "Bobřík informatiky", "text": "Škola uvádí Jana mezi postupujícími do ústředního kola.", "sources": ["bobrik-2024"] },
+    { "year": "2025", "date": "Ročník 2025", "title": "Matematický Náboj", "text": "Tým Gymnázia Děčín · 71. místo, 15 bodů · Praha, Senior.", "sources": ["naboj-2025"] },
+    { "year": "2025", "date": "25. září", "title": "Build the Change v televizi", "text": "Reportáž POLAR · Jan jako lektor v Ostravě-Porubě.", "sources": ["polar"] },
+    { "year": "2025", "date": "Listopad", "title": "183 bodů v Bobříkovi", "text": "Dělené 19. místo v ČR v základním kole Senior.", "sources": ["bobrik-2025"] },
+    { "year": "2026", "date": "Únor–červen", "title": "Ovládáme roboty 2", "text": "ČVUT uvádí Jana mezi lektory kurzu v Děčíně.", "sources": ["cvut-robotics"] },
+    { "year": "2026", "date": "Ročník 2026", "title": "Znovu na Náboji", "text": "Tým Gymnázia Děčín · 63. místo, 15 bodů · Praha, Senior.", "sources": ["naboj-2026"] },
+    { "year": "2026", "date": "18. června · článek", "title": "Nominace Středoškolák 2026", "text": "Školní profil věnovaný technologiím, vzdělávání a práci s lidmi.", "sources": ["school-profile"] }
+  ],
+  "mediaAssets": [
+    { "title": "Fotografie z hackathonu 2024", "source": "school-hackathon", "url": "https://data.cms.forcandies.com/oK2nZ2j2fSbuyuaJdC0qo/compressed/5CXuWm3u_YnYn5l_RWm50-hackatlon-2024.jpg", "rights": "unconfirmed", "approved": false },
+    { "title": "Fotografie z krajské soutěže 2026", "source": "school-profile", "url": "https://data.cms.forcandies.com/oK2nZ2j2fSbuyuaJdC0qo/compressed/37YSkE8tGiREJF4XNXr5W-2526_Stredoskolak_usteckeho_kraje_3.jpg", "rights": "unconfirmed", "approved": false },
+    { "title": "Fotografie z předávání 2026", "source": "school-profile", "url": "https://data.cms.forcandies.com/oK2nZ2j2fSbuyuaJdC0qo/thumbnail/zcPAkq8T9369hsZYjUp4d-2526_Stredoskolak_usteckeho_kraje_2.JPEG", "rights": "unconfirmed", "approved": false }
+  ]
+}
